@@ -129,6 +129,10 @@ aside#sidebar .quote input, aside#sidebar .quote textarea{
 /* Main-col*/
 
 article .highlight{
+    color: #000;
+    font-weight: bold;
+}
+article .highlight2{
     color: red;
     font-weight: bold;
 }
@@ -145,6 +149,7 @@ ul#services li{
     border: #000 solid 1px;
     margin-bottom: 5px;
     background: #a8bbb0;
+    color: #ebe8e0;
 }
 
 
